@@ -1,7 +1,3 @@
-<!-- 🌌 Animated Banner -->
-<div align="center">
-  <img width="100%" alt="banner" src="./cover_image.png"/>
-</div>
 
 
 
