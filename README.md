@@ -10,61 +10,6 @@
   ![GitHub Stars](https://img.shields.io/github/stars/alicia0925martin?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 </div>
-
----
-
-<!-- 👨‍💻 About Section -->
-<table>
- <tr>
-<td width="60%" valign="top">
-      
- ### 👨‍💻 About Me
-      
-🔭 Working On: "GenAxis - AI Platform" <br>
-🌱 Learning: "React Native & Cloud Deployment"<br>
-👯 Collaborating On: "MERN Stack Projects"<br>
-🤝 Looking For Help With: "MERN, Python, Java"<br>
-💬 Ask Me About: "Full-Stack Development"<br>
-📫 Reach Me At: alisa_sniper0020@outlook.com<br>
-⚡ Fun Fact: "💻 Code by day, hack ethically by night, teach with fun!"<br>
-      
-
- ### 🛠️ Current Activity
-     
-🟢 **Currently Coding**: React Native Components  
-📚 **Learning**: AWS Cloud Practitioner  
-🔄 **Recent Commit**: Updated portfolio project  
-🎯 **Goal**: 1000+ GitHub contributions this year
-     
-      
- </td>
-    <td width="40%" align="center">
-      <img alt="coding" width="100%" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif"/>
-</td>
-  </tr>
-</table>
-
-<!-- ---
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/codewithkinu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/codewithkinu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/@codewithkinu" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/codewithkinu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-</p> -->
-
----
-
 ### 🧠 Tech Stack & Proficiency
 
 <p align="center">
