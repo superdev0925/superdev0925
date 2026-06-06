@@ -10,8 +10,6 @@
   ![GitHub Stars](https://img.shields.io/github/stars/alicia0925martin?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 </div>
-### 🧠 Tech Stack & Proficiency
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,python,java,tailwind,git,linux,mysql,blender,aws,redux,ts,vscode" />
 </p>
